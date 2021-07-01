@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on some Statistical project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute some open projects
-- 🥅 2020 Goals: Contribute more to Open Source projects and get a job
+- 🥅 2021 Goals: Contribute more to Open Source projects and get a job
 - ⚡ Fun fact: I love to play cricket,Chess
 
 ### Connect with me:
