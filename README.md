@@ -1,10 +1,9 @@
 ### I'm Suman Saha 👋
 
-## I'm a Student
-- 🔭 I’m currently working on some Statistical project
+## Data Scientist at Daimler Truck Innovation Center, India
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to contribute some open projects
-- 🥅 2021 Goals: Contribute more to Open Source projects and get a job
+- 👯 looking to contribute some open projects
+- 🥅 2022 Goals: Lean & Learn
 - ⚡ Fun fact: I love to play cricket,Chess
 
 ### Connect with me:
