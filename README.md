@@ -1,9 +1,9 @@
 ### I'm Suman Saha 👋
 
-## Data Scientist at Daimler Truck Innovation Center, India
+## Senior Data Scientist at Daimler Truck Innovation Center, India
 - 🌱 I’m currently learning everything 🤣
 - 👯 looking to contribute some open projects
-- 🥅 2022 Goals: Lean & Learn
+- 🥅 2025 Goals: Learn & Ride 
 - ⚡ Fun fact: I love to play cricket,Chess
 
 ### Connect with me:
