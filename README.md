@@ -3,7 +3,7 @@
 ## Senior Data Scientist at Daimler Truck Innovation Center, India
 - 🌱 I’m currently learning everything 🤣
 - 👯 looking to contribute some open projects
-- 🥅 2025 Goals: Learn & Ride 
+- 🥅 2026 Goals: Learn & Ride 
 - ⚡ Fun fact: I love to play cricket,Chess
 
 ### Connect with me:
