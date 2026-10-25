@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SUMAN%20SAHA&fontSize=64&fontColor=E6F1FF&fontAlignY=45&desc=DATA%20SCIENCE%20%7C%20APPLIED%20AI%20%7C%20GENAI&descSize=16&descAlignY=67&color=0:0B1020,45:111C3A,100:164E63&stroke=22C3A6&strokeWidth=1" width="100%" alt="Suman Saha — Data Science, Applied AI, GenAI">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=SUMAN%20SAHA&fontSize=64&fontColor=FFFFFF&fontAlignY=40&desc=DATA%20SCIENCE%20%7C%20APPLIED%20AI%20%7C%20GENAI&descSize=18&descAlignY=62&color=0:0B1020,100:164E63" width="100%" alt="Suman Saha — Data Science, Applied AI, GenAI">
 
 <br>
 
