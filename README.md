@@ -1,27 +1,92 @@
-### I'm Suman Saha 👋
+<!--
+  Suman Saha · GitHub Profile
+  Keep this README focused on real work; update the featured projects as they evolve.
+-->
 
-## Senior Data Scientist at Daimler Truck Innovation Center, India
-- 🌱 I’m currently learning everything 🤣
-- 👯 looking to contribute some open projects
-- 🥅 2026 Goals: Learn & Ride 
-- ⚡ Fun fact: I love to play cricket,Chess
+<div align="center">
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/sahasuman343)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/suman-saha-309799107/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nonstochastic_147/?hl=en)
+# Suman Saha
 
-<br />
+### Senior Data Scientist · AI/ML · GenAI · Data Products
 
-### Languages and Tools:
+I turn data and ideas into useful products — from machine learning and analytics to AI-powered applications.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="bottom" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Stata_Logo.svg/1200px-Stata_Logo.svg.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"/>
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="bottom" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Microsoft_Office_logo.png"/>
-<img align="left" alt="Git" width="26px" src="https://w0.pngwave.com/png/430/424/tableau-software-tableau-server-tableau-online-business-intelligence-data-visualization-others-png-clip-art.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<p>
+  <a href="https://www.linkedin.com/in/suman-saha-309799107/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sahasuman343"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+</div>
+
+---
+
+## About
+
+- 🧠 Working across **data science, machine learning, and applied AI**.
+- 🛠️ Interested in building practical tools that connect models, data, and user experience.
+- 🌱 Always exploring better ways to build, evaluate, and ship intelligent applications.
+- ♟️ Outside work: cricket, chess, and the occasional ride.
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 GenAI Chatbot</h3>
+      An AI chatbot project exploring generative AI application development.
+      <br><br>
+      <a href="https://github.com/sahasuman343/GenAI-Chatbot">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 CoDoc AI</h3>
+      An AI-focused project aimed at making document workflows more useful.
+      <br><br>
+      <a href="https://github.com/sahasuman343/CoDoc_AI">Explore repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚴 RideNTrack</h3>
+      A project built around ride tracking and related experiences.
+      <br><br>
+      <a href="https://github.com/sahasuman343/RideNTrack">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💃 Indian Dance Form Classification</h3>
+      A computer-vision project using deep learning to classify Indian classical dance forms.
+      <br><br>
+      <a href="https://github.com/sahasuman343/Indian-Dance-Form-Classification">Explore repository →</a>
+    </td>
+  </tr>
+</table>
+
+## Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square" alt="Generative AI">
+  <img src="https://img.shields.io/badge/Deep_Learning-0F766E?style=flat-square" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+## GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahasuman343&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahasuman343&layout=compact&hide_border=true&langs_count=6" alt="Most used languages">
+</div>
+
+---
+
+<div align="center">
+
+**Have an interesting data or AI problem?** [Let's connect on LinkedIn.](https://www.linkedin.com/in/suman-saha-309799107/)
+
+<sub>Built with curiosity and a lot of iteration.</sub>
+
+</div>
